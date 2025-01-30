@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Lærke! 
 
-<!--
-**Laerke-Nicole/Laerke-Nicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✿ Currently studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/>
+✿ Studied multimedia design at Business Academy Southwest in Esbjerg, Denmark.<br/>
+✿ I'm currently working on a fictional [cinema website](https://github.com/Laerke-Nicole/Ghiblifilms) for Studio Ghibli lovers using PHP and SQL, where the users can book tickets to watch a movie.<br/>
+✿ When I'm not coding, I enjoy reading books and playing games with friends on Playstation.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+### My stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laerke-Nicole&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Laerke-Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laerke-Nicole&show_icons=true&theme=radical)
