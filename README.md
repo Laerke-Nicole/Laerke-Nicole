@@ -1,6 +1,7 @@
-## Hi, I'm Lærke!
-✿ Currently studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/>
-✿ Studied multimedia design at Business Academy Southwest in Esbjerg, Denmark.<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=50&color=796796&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;I'm+Lærke%2C+a+web+developer+and+multimedia+designer" width="70%" />
+
+
+✿ Studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/>
 ✿ I'm currently working on a fictional [cinema website](https://github.com/Laerke-Nicole/Ghiblifilms) for Studio Ghibli lovers using PHP and SQL, where the users can book tickets to watch a movie.<br/>
 ✿ When I'm not coding, I enjoy reading books and playing Playstation with friends.
 
@@ -10,7 +11,7 @@
 <img align="left" alt="JavaScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     
 <img align="left" alt="JavaScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />     
 <img align="left" alt="JavaScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="PHP" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="PHP" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
 <img align="left" alt="TypeScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="left" alt="JavaScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
@@ -27,6 +28,6 @@
 <br/>
 
 ### My GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Laerke-Nicole&theme=holi&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laerke-Nicole&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Laerke-Nicole&theme=holi&hide_border=false&include_all_commits=false&count_private=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
