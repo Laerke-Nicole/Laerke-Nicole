@@ -2,7 +2,7 @@
 
 ✿ Studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/>
 ✿ I'm currently working on a fictional [cinema website](https://github.com/Laerke-Nicole/Ghiblifilms) using PHP and SQL, with a booking system.<br/>
-✿ I'm currently learning about REST API, MongoDB and Laravel.<br/>
+✿ I'm currently learning REST API, MongoDB and Laravel.<br/>
 ✿ When I'm not coding, I enjoy reading a good old book and playing Playstation with friends.
 
 Contact me at laerke.n.nielsen@gmail.com
