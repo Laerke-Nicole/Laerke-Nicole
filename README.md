@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=50&duration=3000&pause=50&color=796796&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;I'm+Lærke%2C+a+web+developer+and+multimedia+designer+✿" width="70%" />
 
 ✿ Studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/>
-✿ I'm currently working on a [Laravel application](https://github.com/Laerke-Nicole/laravel-crud) with an API that allows users to save books to their wishlist.<br/>
+✿ I'm currently working on a [rest API website](https://github.com/Laerke-Nicole/MongoDBApi) that fetches books and includes a login system.<br/>
 ✿ I'm currently learning REST API, MongoDB and Laravel.<br/>
 ✿ When I'm not coding, I enjoy reading a great fantasy book and playing Playstation with friends.
 
