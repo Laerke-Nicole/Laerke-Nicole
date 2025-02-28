@@ -3,7 +3,7 @@
 ✿ Studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/>
 ✿ I'm currently working on a [Laravel application](https://github.com/Laerke-Nicole/laravel-crud) with an API that allows users to save books to their wishlist.<br/>
 ✿ I'm currently learning REST API, MongoDB and Laravel.<br/>
-✿ When I'm not coding, I enjoy reading a good old book and playing Playstation with friends.
+✿ When I'm not coding, I enjoy reading a great fantasy book and playing Playstation with friends.
 
 Contact me at laerke.n.nielsen@gmail.com
 <br/>
