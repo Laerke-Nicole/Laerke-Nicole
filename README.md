@@ -1,5 +1,5 @@
 ✿ Studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/>
-✿ I'm currently working on a [Full stack Pokemon trading system](https://github.com/HvadisVal/PokeTrademon)[with a REST API](https://github.com/HvadisVal/PokeTrademonAPI) where a user can trade Pokemon cards online.<br/>
+✿ I'm currently working on a [Full stack Pokemon trading system](https://github.com/HvadisVal/PokeTrademon) [with a REST API](https://github.com/HvadisVal/PokeTrademonAPI) where a user can trade Pokemon cards online.<br/>
 ✿ I'm currently learning TypeScript, Unit testing, and REST API.<br/>
 ✿ When I'm not coding, I enjoy reading a great fantasy book and playing Playstation with friends.
 
