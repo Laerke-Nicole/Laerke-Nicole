@@ -1,9 +1,11 @@
-✿ Studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/><br/>
-✿ I'm currently working on a [Full stack Pokemon trading system](https://github.com/HvadisVal/PokeTrademon) [with a REST API](https://github.com/HvadisVal/PokeTrademonAPI) where a user can trade Pokemon cards online.<br/><br/>
-✿ I'm currently learning TypeScript, Unit testing, and REST API.<br/><br/>
-✿ When I'm not coding, I enjoy reading a great fantasy book and playing Playstation with friends.
+# Hi there, I'm Lærke ✿
+A multimedia designer and web developer who's passionate about detail and intuitive design. I enjoy the structured and problem-solving side of frontend coding, where a website come to life piece by piece. When I'm not coding, I enjoy reading a great fantasy book and playing Playstation with friends. <br><br>
+✿ Studying web development at Business Academy Southwest in Esbjerg, Denmark.<br/>
+✿ I'm currently working on a [Full stack Pokemon trading system](https://github.com/HvadisVal/PokeTrademon) [with a REST API](https://github.com/HvadisVal/PokeTrademonAPI) where a user can trade Pokemon cards online.<br/>
+✿ I'm currently learning TypeScript, Unit testing, and REST API.<br/>
 
-Contact me at laerke.n.nielsen@gmail.com
+<strong>Email: </strong>laerke.n.nielsen@gmail.com<br>
+<strong>Linkedin: </strong>https://www.linkedin.com/in/laerke-nicole/
 <br/>
 <br/>
 
